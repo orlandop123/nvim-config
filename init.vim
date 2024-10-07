@@ -16,6 +16,7 @@ Plug 'junegunn/fzf.vim'
 call plug#end()
  
 let mapleader = " "
+set number
 
 lua require('plugins.lualine')
 lua require('plugins.fuzzy')
