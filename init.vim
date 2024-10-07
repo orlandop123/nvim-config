@@ -20,4 +20,4 @@ let mapleader = " "
 lua require('plugins.lualine')
 lua require('plugins.fuzzy')
 lua require('plugins.telescope')
-
+lua require('plugins.coc')
